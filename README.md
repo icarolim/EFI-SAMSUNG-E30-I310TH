@@ -3,7 +3,8 @@ EFI Hackintosh Samsung E30 I3 10th
 (Full Intel Hardware)
 
 Todas as Funções estão OK
-(Vale testar e ajustar HDMI e Airdrop)
+(Vale testar e ajustar HDMI)
+- Airdrop somente com troca de placa wifi/BT por modelos com suporte nativo
 
-Testado no SONOMA 14.3.1
+Testado no SONOMA 14.4
 (Deve funcionar em todas as versões posteriores com poucos ajustes e updates nas kexts)
