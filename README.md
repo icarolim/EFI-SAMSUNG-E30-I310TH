@@ -6,5 +6,6 @@ Todas as Funções estão OK
 (Vale testar e ajustar HDMI)
 - Airdrop somente com troca de placa wifi/BT por modelos com suporte nativo
 
+_______________________________________________________________________________________
 Testado no SONOMA 14.4
 (Deve funcionar em todas as versões posteriores com poucos ajustes e updates nas kexts)
